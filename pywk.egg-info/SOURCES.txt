@@ -1,0 +1,7 @@
+setup.py
+pywk/__init__.py
+pywk.egg-info/PKG-INFO
+pywk.egg-info/SOURCES.txt
+pywk.egg-info/dependency_links.txt
+pywk.egg-info/requires.txt
+pywk.egg-info/top_level.txt
